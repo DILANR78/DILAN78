@@ -60,6 +60,10 @@
   <img alt="Terminal" src="https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=terminal&logoColor=white">
 </a>
 
+<a href="https://www.linux.com/" target="_blank">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+
 <!-- Tools and Platforms -->
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
