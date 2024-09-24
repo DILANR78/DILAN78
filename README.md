@@ -7,18 +7,13 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱Me llamo Dilan Romero estoy comenzado el munod e desarrollo y en este momento estoy realizando practicas
+- Soy Dilan Romero soy Estudiante de Tecnólogo en Análisis y Desarrollo de Software, actualmente realizando practicas en Grupo ASD
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
+<a href="https:https://www.linkedin.com/in/dilan-stiven-romero-salas-bb1402306/>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
