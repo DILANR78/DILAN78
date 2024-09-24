@@ -7,15 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
-
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
-
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 🌱Me llamo Dilan Romero estoy comenzado el munod e desarrollo y en este momento estoy realizando practicas
 
 
 ### Connect with me 🔗 :
