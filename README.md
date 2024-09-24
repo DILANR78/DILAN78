@@ -44,7 +44,7 @@
 
 <!-- Database -->
 <a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="ttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
 <!-- Version Control and Collaboration -->
