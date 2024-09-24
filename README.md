@@ -51,6 +51,10 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=terminal&logoColor=white">
+</a>
+
 <!-- Tools and Platforms -->
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
