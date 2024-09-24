@@ -11,12 +11,15 @@
 
 
 ### Connect with me 🔗 :
-<br>
-<p align='center'>
-<a href="https:https://www.linkedin.com/in/dilan-stiven-romero-salas-bb1402306/>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<p align="center">
+  <a href="mailto:ahmadpiracha3@gmail.com" target="_blank" style="text-decoration: none; color: #fff; background-color: #D14836; padding: 10px 20px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank" style="text-decoration: none; color: #fff; background-color: #0077B5; padding: 10px 20px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
-<br>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
