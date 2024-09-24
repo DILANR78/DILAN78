@@ -1,4 +1,4 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> HELLO! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 </p>
 	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
