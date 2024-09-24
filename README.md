@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank" style="text-decoration: none; color: #fff; background-color: #0077B5; padding: 10px 20px; border-radius: 5px;">
+  <a href="https://https://www.linkedin.com/in/dilan-stiven-romero-salas-bb1402306/ style="text-decoration: none; color: #fff; background-color: #0077B5; padding: 10px 20px; border-radius: 5px;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
